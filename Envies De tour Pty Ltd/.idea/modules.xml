@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Year 1 Semester 2/Java/Year 1 Semester 2.iml" filepath="$PROJECT_DIR$/Year 1 Semester 2/Java/Year 1 Semester 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Year 1 Semester 2/Java/jGRASP/extensions/extensions.iml" filepath="$PROJECT_DIR$/Year 1 Semester 2/Java/jGRASP/extensions/extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Year 1 Semester 2/Java/JAVA Softwares/jGRASP/extensions/extensions1.iml" filepath="$PROJECT_DIR$/Year 1 Semester 2/Java/JAVA Softwares/jGRASP/extensions/extensions1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Year 1 Semester 2/Java/JAVA Softwares/jGRASP/jGRASP.iml" filepath="$PROJECT_DIR$/Year 1 Semester 2/Java/JAVA Softwares/jGRASP/jGRASP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Year 1 Semester 2/Java/jGRASP/jGRASP1.iml" filepath="$PROJECT_DIR$/Year 1 Semester 2/Java/jGRASP/jGRASP1.iml" />
+    </modules>
+  </component>
+</project>
